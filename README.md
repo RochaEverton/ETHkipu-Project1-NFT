@@ -1,4 +1,4 @@
-# 🎨 ETH Kipu NFT on Sepolia Network
+# 🎨 NFT on Sepolia Network
 
 This repository demonstrates the creation, deployment, and minting of an **ERC-721 NFT** on the **Sepolia testnet**, using:
 
